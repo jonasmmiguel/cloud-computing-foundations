@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/jonasmmiguel/gift-cloud-computing-course/actions/workflows/main.yml/badge.svg)](https://github.com/jonasmmiguel/gift-cloud-computing-course/actions/workflows/main.yml)
+
 # cloud-computing-foundations
 
 Coursera course
